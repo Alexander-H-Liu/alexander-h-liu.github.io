@@ -19,7 +19,7 @@ Currently, his work focuses on representation learning with the goal of developi
 Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
-He have also spent time interning at Meta AI (formerly known as Facebook AI Research) working on unsupervised speech processing.
+Besides academic labs, he also spent time working at Meta AI (formerly known as Facebook AI Research) as a research intern.
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
@@ -44,7 +44,7 @@ He have also spent time interning at Meta AI (formerly known as Facebook AI Rese
     [ [paper](https://arxiv.org/abs/2106.05438) ]
 
 - **Spoken moments: Learning Joint Audio-visual Representations from Video Descriptions**<br/>
-    Mathew Monfort<sup>*</sup>, SouYoung Jin<sup>*</sup>, <u>Alexander H. Liu</u>, David Harwath, Rogerio Feris, James Glass, Aude Oliva<br/>
+    Mathew Monfort <sub>(co-first)</sub>, SouYoung Jin <sub>(co-first)</sub>, <u>Alexander H. Liu</u>, David Harwath, Rogerio Feris, James Glass, Aude Oliva<br/>
      *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021*<br/>
     [ [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Monfort_Spoken_Moments_Learning_Joint_Audio-Visual_Representations_From_Video_Descriptions_CVPR_2021_paper.html) | [dataset](http://moments.csail.mit.edu/spoken.html) ]
 
