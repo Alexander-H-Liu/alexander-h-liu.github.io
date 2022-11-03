@@ -28,14 +28,19 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
 
 # Selected Publications
 
+- **UAVM: A Unified Model for Audio-Visual Learning**<br/>
+    Yuan Gong, <u>Alexander H. Liu</u>, Andrew Rouditchenko, James Glass<br/>
+    *Preprint*<br/>
+    [ [paper](https://arxiv.org/abs/2208.00061)]
+
 - **Simple and Effective Unsupervised Speech Synthesis**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Cheng-I Jeff Lai <sub>(co-first)</sub>, Wei-Ning Hsu, Michael Auli, Alexei Baevskiv, James Glass<br/>
-    *Preprint*<br/>
+    *InterSpeech 2022*<br/>
     [ [paper](https://arxiv.org/abs/2204.02524) | [demo](https://people.csail.mit.edu/clai24/unsup-tts/)]
 
 - **Towards End-to-end Unsupervised Speech Recognition**<br/>
     <u>Alexander H. Liu</u>, Wei-Ning Hsu, Michael Auli, Alexei Baevski<br/>
-    *Preprint*<br/>
+    *Spoken Language Technology Workshop (SLT) 2022*<br/>
     [ [paper](https://arxiv.org/abs/2204.02492) | [code](https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/unsupervised)]
 
 - **Cross-Modal Discrete Representation Learning**<br/>
