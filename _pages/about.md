@@ -11,37 +11,67 @@ redirect_from:
 
 # Bio
 
-Alexander Haojan Liu is a second-year Ph.D. student in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+Alexander Haojan (浩然) Liu is a 4th Ph.D. student in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
 He is a member of the Spoken Language System (SLS) Group leading by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 His research interests are in the field of machine learning, natural language processing (speech processing in particular), and computer vision.
-Currently, his work focuses on representation learning with the goal of developing techniques towards unsupervised learning.
+Currently, his work focuses on self-supervised learning of audio and their applications.
 
 Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
 Besides academic labs, he also spent time working at Meta AI (formerly known as Facebook AI Research) as a research intern.
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
-<!-- 
-/ [Talks](#Talks) 
--->
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) 
+<!-- / [CV](files/cv.pdf) -->
+
+# News
+
+- Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I would like to commit 1-2 hours per week to provide suggestions and/or mentorships to junior students in need, especially those from underrepresented groups. Please fill out [this form](https://forms.gle/EmwuCPpxqEoLyCfi7) if you are interested.
+
+- I'm activelty looking for research collaboration with students outside of MIT on machine learning for audio and multi-modal data. Pleae feel free to drop me an email if you find my recent works interesting!
+
 
 # Selected Publications
 
-- **UAVM: A Unified Model for Audio-Visual Learning**<br/>
-    Yuan Gong, <u>Alexander H. Liu</u>, Andrew Rouditchenko, James Glass<br/>
+- **Generative Pre-training for Speech with Flow Matching**<br/>
+    <u>Alexander H. Liu</u>, Matthew Le, Apoorv Vyas, Bowen Shi, Andros Tjandra, Wei-Ning Hsu<br/>
     *Preprint*<br/>
-    [ [paper](https://arxiv.org/abs/2208.00061)]
+    [ [paper](https://arxiv.org/abs/2310.16338) ]
+
+- **Revisiting Self-supervised Learning of Speech Representation from a Mutual Information Perspective**<br/>
+    <u>Alexander H. Liu</u><sub>(co-first)</sub>, Sung-Lin Yeh<sub>(co-first)</sub>, James Glass<br/>
+    [ [under review, coming soon]() ]
+
+- **DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning**<br/>
+    <u>Alexander H. Liu</u>, Heng-Jui Chang, Michael Auli<sub>(co-last)</sub>, Wei-Ning Hsu<sub>(co-last)</sub>, James Glass<sub>(co-last)</sub><br/>
+    *In Advances in Neural Information Processing Systems (NeurIPS) 2023*<br/>
+    [ [paper](https://arxiv.org/pdf/2305.10005) | [code coming soon]() ]
+
+- **Joint Audio and Speech Understanding**<br/>
+    Yuan Gong, <u>Alexander H. Liu</u>, Hongyin Luo, Leonid Karlinsky, James Glass<br/>
+    *IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) 2023*<br/>
+    [ [paper](https://arxiv.org/pdf/2309.14405) | [interactive demo](https://huggingface.co/spaces/yuangongfdu/ltu-2) ]
+
+- **Listen, Think, and Understand**<br/>
+    Yuan Gong, Hongyin Luo, <u>Alexander H. Liu</u>, Leonid Karlinsky, James Glass<br/>
+    *Preprint*<br/>
+    [ [paper](https://arxiv.org/pdf/2305.10790) | [interactive demo](https://huggingface.co/spaces/yuangongfdu/ltu) ]
+    
+
+- **Contrastive Audio-Visual Masked Autoencoder**<br/>
+    Yuan Gong, Andrew Rouditchenko, <u>Alexander H. Liu</u>, David Harwath, Leonid Karlinsky, Hilde Kuehne, James Glass<br/>
+    *International Conference on Learning Representations (ICLR) 2023*<br/>
+    [ [paper](https://openreview.net/forum?id=QPtMRyk5rb) | [code](https://github.com/YuanGongND/cav-mae) ]
 
 - **Simple and Effective Unsupervised Speech Synthesis**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Cheng-I Jeff Lai <sub>(co-first)</sub>, Wei-Ning Hsu, Michael Auli, Alexei Baevskiv, James Glass<br/>
     *InterSpeech 2022*<br/>
-    [ [paper](https://arxiv.org/abs/2204.02524) | [demo](https://people.csail.mit.edu/clai24/unsup-tts/)]
+    [ [paper](https://arxiv.org/abs/2204.02524) | [demo](https://people.csail.mit.edu/clai24/unsup-tts/) ]
 
 - **Towards End-to-end Unsupervised Speech Recognition**<br/>
     <u>Alexander H. Liu</u>, Wei-Ning Hsu, Michael Auli, Alexei Baevski<br/>
     *Spoken Language Technology Workshop (SLT) 2022*<br/>
-    [ [paper](https://arxiv.org/abs/2204.02492) | [code](https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/unsupervised)]
+    [ [paper](https://arxiv.org/abs/2204.02492) | [code](https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/unsupervised) ]
 
 - **Cross-Modal Discrete Representation Learning**<br/>
     <u>Alexander H. Liu</u>, SouYoung Jin, Cheng-I Jeff Lai, Andrew Rouditchenko, Aude Oliva, James Glass<br/>
@@ -63,20 +93,20 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
     *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
     [ [paper](https://arxiv.org/abs/1910.12729) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
 
-- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
+<!-- - **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
     <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
     *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
-    [ [paper](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
+    [ [paper](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ] -->
 
 - **Towards Scene Understanding: Unsupervised Monocular Depth Estimation with Semantic-Aware Representation**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Po-Yi Chen <sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang<br/>
     *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
     [ [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
     
-- **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**<br/>
+<!-- - **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**<br/>
     <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
     *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
-    [ [paper](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
+    [ [paper](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ] -->
     
 - **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**<br/>
     <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang<br/>
