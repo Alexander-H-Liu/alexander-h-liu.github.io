@@ -21,7 +21,7 @@ He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
 Besides academic labs, he also spent time working at Meta AI (formerly known as Facebook AI Research) as a research intern.
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) 
+[Publications](#selected-publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) 
 <!-- / [CV](files/cv.pdf) -->
 
 # News
