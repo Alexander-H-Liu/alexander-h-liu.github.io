@@ -35,17 +35,18 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
 
 - **Generative Pre-training for Speech with Flow Matching**<br/>
     <u>Alexander H. Liu</u>, Matthew Le, Apoorv Vyas, Bowen Shi, Andros Tjandra, Wei-Ning Hsu<br/>
-    *Preprint*<br/>
-    [ [paper](https://arxiv.org/abs/2310.16338) ]
+    *International Conference on Learning Representations (ICLR) 2024*<br/>
+    [ [paper](https://openreview.net/forum?id=KpoQSgxbKH) ]
 
 - **Revisiting Self-supervised Learning of Speech Representation from a Mutual Information Perspective**<br/>
     <u>Alexander H. Liu</u><sub>(co-first)</sub>, Sung-Lin Yeh<sub>(co-first)</sub>, James Glass<br/>
-    [ [under review, coming soon]() ]
+    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024*<br/>
+    [ [paper](http://arxiv.org/abs/2401.08833) ]
 
 - **DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning**<br/>
     <u>Alexander H. Liu</u>, Heng-Jui Chang, Michael Auli<sub>(co-last)</sub>, Wei-Ning Hsu<sub>(co-last)</sub>, James Glass<sub>(co-last)</sub><br/>
     *In Advances in Neural Information Processing Systems (NeurIPS) 2023*<br/>
-    [ [paper](https://arxiv.org/pdf/2305.10005) | [code coming soon]() ]
+    [ [paper](https://arxiv.org/pdf/2305.10005) | [code](https://github.com/Alexander-H-Liu/alexander-h-liu.github.io) ]
 
 - **Joint Audio and Speech Understanding**<br/>
     Yuan Gong, <u>Alexander H. Liu</u>, Hongyin Luo, Leonid Karlinsky, James Glass<br/>
