@@ -46,7 +46,7 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
 - **DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning**<br/>
     <u>Alexander H. Liu</u>, Heng-Jui Chang, Michael Auli<sub>(co-last)</sub>, Wei-Ning Hsu<sub>(co-last)</sub>, James Glass<sub>(co-last)</sub><br/>
     *In Advances in Neural Information Processing Systems (NeurIPS) 2023*<br/>
-    [ [paper](https://arxiv.org/pdf/2305.10005) | [code](https://github.com/Alexander-H-Liu/alexander-h-liu.github.io) ]
+    [ [paper](https://arxiv.org/pdf/2305.10005) | [code](https://github.com/Alexander-H-Liu/dinosr) ]
 
 - **Joint Audio and Speech Understanding**<br/>
     Yuan Gong, <u>Alexander H. Liu</u>, Hongyin Luo, Leonid Karlinsky, James Glass<br/>
@@ -55,9 +55,8 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
 
 - **Listen, Think, and Understand**<br/>
     Yuan Gong, Hongyin Luo, <u>Alexander H. Liu</u>, Leonid Karlinsky, James Glass<br/>
-    *Preprint*<br/>
+    *International Conference on Learning Representations (ICLR) 2024*<br/>
     [ [paper](https://arxiv.org/pdf/2305.10790) | [interactive demo](https://huggingface.co/spaces/yuangongfdu/ltu) ]
-    
 
 - **Contrastive Audio-Visual Masked Autoencoder**<br/>
     Yuan Gong, Andrew Rouditchenko, <u>Alexander H. Liu</u>, David Harwath, Leonid Karlinsky, Hilde Kuehne, James Glass<br/>
