@@ -18,7 +18,7 @@ His work focuses on natural language and speech processing for artificial intell
 Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
-Besides academic labs, he also spent time working at Meta AI (formerly known as Facebook AI Research) as a research intern.
+Besides academic labs, he also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
 
 [Selected Publications](#selected-publications) / [Selected Reports](#selected-reports)/ [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
 <!-- / [CV](files/cv.pdf) -->
