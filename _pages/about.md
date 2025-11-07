@@ -11,27 +11,42 @@ redirect_from:
 
 # Bio
 
-Alexander Haojan (浩然) Liu is a 4th Ph.D. student in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
-He is a member of the Spoken Language System (SLS) Group leading by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
-His research interests are in the field of machine learning, natural language processing (speech processing in particular), and computer vision.
-Currently, his work focuses on self-supervised learning of audio and their applications.
+Alexander Liu is a final year Ph.D. candidate in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+He is a member of the Spoken Language System (SLS) Group led by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
+His work focuses on natural language and speech processing for artificial intelligence, with the goal of building machines human can seamlessly interact with through voice. Examples include multimodal audio representation learning, multimodal alignment, large language models and generative models for audio.
 
 Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
 Besides academic labs, he also spent time working at Meta AI (formerly known as Facebook AI Research) as a research intern.
 
-[Publications](#selected-publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) 
+[Selected Publications](#selected-publications) / [Selected Reports](#selected-reports)/ [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
 <!-- / [CV](files/cv.pdf) -->
 
 # News
 
+- I'm currently on leave until Spring 2026, working at Mistral AI to build frontier open audio models such as [Voxtral](#selected-reports). (Our speech team is growing, please reach out if you are interested!)
+
 - Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I would like to commit 1-2 hours per week to provide suggestions and/or mentorships to junior students in need, especially those from underrepresented groups. Please fill out [this form](https://forms.gle/EmwuCPpxqEoLyCfi7) if you are interested.
 
-- I'm activelty looking for research collaboration with students outside of MIT on machine learning for audio and multi-modal data. Pleae feel free to drop me an email if you find my recent works interesting!
-
-
 # Selected Publications
+
+For the complete list, please visit [google scholar](https://scholar.google.com/citations?user=LIiCDa0AAAAJ).
+
+- **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**<br/>
+    Shester Gueuwou, Xiaoyi Du, Gregory Shakhnarovich, Karen Livescu, <u>Alexander H. Liu</u><br/>
+    *Annual Meeting of the Association for Computational Linguistics (ACL) 2025 (Oral)*<br/>
+    [ [paper](https://arxiv.org/pdf/2411.16765) | [project page](https://shubert.pals.ttic.edu/) | [code](https://github.com/ShesterG/SHuBERT) | [interactive demo](https://huggingface.co/spaces/ShesterG/TTIC-SHuBERT-ASLVideo-to-EnglishText) ]
+
+- **UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**<br/>
+    <u>Alexander H. Liu</u>, Sungho Lee, Chien-Hsin H. Yang, Yu Gong, Yu-Chiang Frank Wang, James R. Glass, Rafael Valle, Bryan Catanzaro<br/>
+    *International Conference on Learning Representations (ICLR) 2025*<br/>
+    [ [paper](https://arxiv.org/pdf/2503.00733) ]
+
+- **Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**<br/>
+    Po-Jui Ku, <u>Alexander H. Liu</u>, Roman Korostik, Sung-Feng Huang, Szu-Wei Fu, Ante Jukić<br/>
+    *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025*<br/>
+    [ [paper](https://arxiv.org/pdf/2409.16117) | [code](https://github.com/NVIDIA-NeMo/NeMo/blob/main/examples/audio/conf/flow_matching_generative_ssl_pretraining.yaml) | [demo](https://kuray107.github.io/ssl_gen25-examples/index.html) ]
 
 - **Generative Pre-training for Speech with Flow Matching**<br/>
     <u>Alexander H. Liu</u>, Matthew Le, Apoorv Vyas, Bowen Shi, Andros Tjandra, Wei-Ning Hsu<br/>
@@ -113,16 +128,28 @@ Besides academic labs, he also spent time working at Meta AI (formerly known as 
     *In Advances in Neural Information Processing Systems (NeurIPS) 2018*<br/>
     [ [paper](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) | [code](https://github.com/Alexander-H-Liu/UFDN) | [supplementary & reviews](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)  ]
 
-For the complete list, please visit [google scholar](https://scholar.google.com/citations?user=LIiCDa0AAAAJ).
+# Selected Reports
+
+- **Voxtral**<br/>
+    <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy,
+Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
+    *Mistral AI, 2025*<br/>
+    [ [technical report](https://arxiv.org/pdf/2507.13264) | [model weights](https://huggingface.co/mistralai/models?search=voxtral) | [blog](https://mistral.ai/news/voxtral) ]
+
+- **Towards Audio Language Modeling - An Overview**<br/>
+    Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-Wei Chang, Ho-Lam Chung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
+    *arXiv preprint, 2024*<br/>
+    [ [paper](https://arxiv.org/pdf/2402.13236) ]
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.mit.edu/~jda/teaching/6.864/">Nature Language Processing</a></span> <span style="flex:  0 0 auto"><i>MIT, Fall 2021</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Guest Lecturer, Spoken Language Processing</span> <span style="flex:  0 0 auto"><i>MIT, Spring 2024</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.mit.edu/~jda/teaching/6.864/">Natural Language Processing</a></span> <span style="flex:  0 0 auto"><i>MIT, Fall 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Head TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU, Academic Year 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU, Fall 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Deep Learning for Computer Vision</span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Advanced Deep Learning</span> <span style="flex:  0 0 auto"><i>NTU, Spring 2018</i></span></p>
 
 <!-- 
 # Talks
@@ -133,16 +160,21 @@ For the complete list, please visit [google scholar](https://scholar.google.com/
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon Media, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Best Student Speaker Award</span> <span style="flex:  0 0 auto"><i>3rd AII Workshop 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">1st Price, Formosa Spoken QA Challenge</span> <span style="flex:  0 0 auto"><i>Ministry of Science and Technology, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MOE Taiwan Scholarship</span> <span style="flex:  0 0 auto"><i>Ministry of Education, Taiwan 2022-2023</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Outstanding Master's Thesis Award</span> <span style="flex:  0 0 auto"><i>ACLCLP 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Teaching Assistant Award</span> <span style="flex:  0 0 auto"><i>NTU CSIE Dept. 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Presidential Awards</span> <span style="flex:  0 0 auto"><i>NTU CSIE 2017/2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon (Taiwan) 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Best Student Speaker Award</span> <span style="flex:  0 0 auto"><i>3rd Augmented Intelligence and Interaction (AII) Workshop 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">1st Prize, Formosa Spoken QA Challenge</span> <span style="flex:  0 0 auto"><i>Ministry of Science and Technology, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Presidential Awards (top 5%)</span> <span style="flex:  0 0 auto"><i>National Taiwan University 2017/2018</i></span></p>
 
 
-# Projects
+# Open-source Contributions
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
-- Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://huggingface.co/mistralai/models?search=voxtral">Voxtral</a></strong><br/>Core contributor -- state-of-the-art large spoken language models, 400k total downloads</span> <span style="flex:  0 0 auto"><i>2025</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://github.com/facebookresearch/fairseq">Fairseq -- wav2vec-U 2.0</a></strong><br/>Contributor -- speech recognition algorithm to the well-known NLP toolkit, 31.9k stars</span> <span style="flex:  0 0 auto"><i>2022</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch">End-to-end-ASR-Pytorch</a></strong><br/>Creator -- one of the first deep speech recognition model in Pytorch, 1.2k stars</span> <span style="flex:  0 0 auto"><i>2018</i></span></p>
