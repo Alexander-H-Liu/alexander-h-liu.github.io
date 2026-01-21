@@ -20,12 +20,12 @@ He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
 Besides academic labs, he also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
 
-[Selected Publications](#selected-publications) / [Selected Reports](#selected-reports)/ [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
+[Selected Publications](#selected-publications) / [Selected Reports](#selected-reports) / [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
 <!-- / [CV](files/cv.pdf) -->
 
 # News
 
-- I'm currently on leave until Spring 2026, working at Mistral AI to build frontier open audio models such as [Voxtral](#selected-reports). (Our speech team is growing, please reach out if you are interested!)
+- I'm currently on leave until Spring 2026, working at Mistral AI to build frontier open models such as [Voxtral](#selected-reports) and [the Ministral 3 family](#selected-reports). (Our speech team is growing, please reach out if you are interested!)
 
 - Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I would like to commit 1-2 hours per week to provide suggestions and/or mentorships to junior students in need, especially those from underrepresented groups. Please fill out [this form](https://forms.gle/EmwuCPpxqEoLyCfi7) if you are interested.
 
@@ -136,6 +136,11 @@ Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
     *Mistral AI, 2025*<br/>
     [ [technical report](https://arxiv.org/pdf/2507.13264) | [model weights](https://huggingface.co/mistralai/models?search=voxtral) | [blog](https://mistral.ai/news/voxtral) ]
 
+- **Ministral 3**<br/>
+    <u>Alexander H. Liu</u>, Kartik Khandelwal, Sandeep Subramanian, Victor Jouault<br/>
+    *Mistral AI, 2025*<br/>
+    [ [technical report](https://arxiv.org/abs/2601.08584) | [model weights](https://huggingface.co/collections/mistralai/ministral-3) | [blog](https://mistral.ai/news/mistral-3) ]
+
 - **Towards Audio Language Modeling - An Overview**<br/>
     Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-Wei Chang, Ho-Lam Chung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
     *arXiv preprint, 2024*<br/>
@@ -173,7 +178,9 @@ Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
 
 # Open-source Contributions
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://huggingface.co/mistralai/models?search=voxtral">Voxtral</a></strong><br/>Core contributor -- state-of-the-art large spoken language models, 400k total downloads</span> <span style="flex:  0 0 auto"><i>2025</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://huggingface.co/mistralai/models?search=voxtral">Voxtral</a></strong><br/>Core contributor -- state-of-the-art large spoken language models, 460k total downloads</span> <span style="flex:  0 0 auto"><i>2025</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://huggingface.co/collections/mistralai/ministral-3">Ministral 3</a></strong><br/>Core contributor -- parameter-efficient dense language models via cascade distillation, 950k total downloads</span> <span style="flex:  0 0 auto"><i>2025</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><strong><a href="https://github.com/facebookresearch/fairseq">Fairseq -- wav2vec-U 2.0</a></strong><br/>Contributor -- speech recognition algorithm to the well-known NLP toolkit, 31.9k stars</span> <span style="flex:  0 0 auto"><i>2022</i></span></p>
 
