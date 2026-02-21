@@ -18,14 +18,14 @@ His work focuses on natural language and speech processing for artificial intell
 Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
-Besides academic labs, he also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
+
+Besides academic labs, Alex also spent time at Mistral AI as one of the first speech researchers to build frontier open audio models (e.g., [Voxtral](#selected-reports)) and LLMs (e.g., [the Ministral 3 family](#selected-reports)).
+He also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
 
 [Selected Publications](#selected-publications) / [Selected Reports](#selected-reports) / [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
 <!-- / [CV](files/cv.pdf) -->
 
 # News
-
-- I'm currently on leave until Spring 2026, working at Mistral AI to build frontier open models such as [Voxtral](#selected-reports) and [the Ministral 3 family](#selected-reports). (Our speech team is growing, please reach out if you are interested!)
 
 - Inspired by [Wei-Chiu Ma](https://people.csail.mit.edu/weichium/), I would like to commit 1-2 hours per week to provide suggestions and/or mentorships to junior students in need, especially those from underrepresented groups. Please fill out [this form](https://forms.gle/EmwuCPpxqEoLyCfi7) if you are interested.
 
@@ -130,9 +130,13 @@ For the complete list, please visit [google scholar](https://scholar.google.com/
 
 # Selected Reports
 
+- **Voxtral Realtime**<br/>
+    <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Chen-Yo Sun, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Rohin Arora, Sanchit Gandhi, Sandeep Subramanian, Soham Ghosh, Srijan Mishra, et al.<br/>
+    *Mistral AI, 2026*<br/>
+    [ [technical report](https://arxiv.org/pdf/2602.11298) | [model weights](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) | [blog](https://mistral.ai/news/voxtral-transcribe-2) ]
+
 - **Voxtral**<br/>
-    <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy,
-Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
+    <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
     *Mistral AI, 2025*<br/>
     [ [technical report](https://arxiv.org/pdf/2507.13264) | [model weights](https://huggingface.co/mistralai/models?search=voxtral) | [blog](https://mistral.ai/news/voxtral) ]
 
