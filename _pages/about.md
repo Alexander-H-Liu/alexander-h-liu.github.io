@@ -34,17 +34,17 @@ He also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvi
 For the complete list, please visit [google scholar](https://scholar.google.com/citations?user=LIiCDa0AAAAJ).
 
 - **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**<br/>
-    Shester Gueuwou, Xiaoyi Du, Gregory Shakhnarovich, Karen Livescu, <u>Alexander H. Liu</u><br/>
+    Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, <u>Alexander H. Liu</u><br/>
     *Annual Meeting of the Association for Computational Linguistics (ACL) 2025 (Oral)*<br/>
     [ [paper](https://arxiv.org/pdf/2411.16765) | [project page](https://shubert.pals.ttic.edu/) | [code](https://github.com/ShesterG/SHuBERT) | [interactive demo](https://huggingface.co/spaces/ShesterG/TTIC-SHuBERT-ASLVideo-to-EnglishText) ]
 
 - **UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**<br/>
-    <u>Alexander H. Liu</u>, Sungho Lee, Chien-Hsin H. Yang, Yu Gong, Yu-Chiang Frank Wang, James R. Glass, Rafael Valle, Bryan Catanzaro<br/>
+    <u>Alexander H. Liu</u>, Sang-gil Lee, Chao-Han Huck Yang, Yuan Gong, Yu-Chiang Frank Wang, James R. Glass, Rafael Valle, Bryan Catanzaro<br/>
     *International Conference on Learning Representations (ICLR) 2025*<br/>
     [ [paper](https://arxiv.org/pdf/2503.00733) ]
 
 - **Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**<br/>
-    Po-Jui Ku, <u>Alexander H. Liu</u>, Roman Korostik, Sung-Feng Huang, Szu-Wei Fu, Ante Jukić<br/>
+    Pin-Jui Ku, <u>Alexander H. Liu</u>, Roman Korostik, Sung-Feng Huang, Szu-Wei Fu, Ante Jukić<br/>
     *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025*<br/>
     [ [paper](https://arxiv.org/pdf/2409.16117) | [code](https://github.com/NVIDIA-NeMo/NeMo/blob/main/examples/audio/conf/flow_matching_generative_ssl_pretraining.yaml) | [demo](https://kuray107.github.io/ssl_gen25-examples/index.html) ]
 
