@@ -11,16 +11,17 @@ redirect_from:
 
 # Bio
 
-Alexander Liu is a final year Ph.D. candidate in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
-He is a member of the Spoken Language System (SLS) Group led by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
-His work focuses on natural language and speech processing for artificial intelligence, with the goal of building machines human can seamlessly interact with through voice. Examples include multimodal audio representation learning, multimodal alignment, large language models and generative models for audio.
+Alexander Liu is a  Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/).
+His work focuses on natural language and speech processing for artificial intelligence, with the goal of building machines that humans can seamlessly interact with. Examples include multimodal audio representation learning, multimodal alignment, large language models, and audio generative models.
 
-Prior to joining MIT, Alex received his M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
-He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
-During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) in computer vision and representation learning.
+Alexander earned his Ph.D. in Computer Science from MIT, where he was supervised by [Dr. James Glass](http://people.csail.mit.edu/jrg/).
+Prior to joining MIT, he received M.S. and B.S. in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
+He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on machine learning and speech processing.
+During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) on computer vision and representation learning.
 
-Besides academic labs, Alex also spent time at Mistral AI as one of the first speech researchers to build frontier open audio models (e.g., [Voxtral](#selected-reports)) and LLMs (e.g., [the Ministral 3 family](#selected-reports)).
-He also spent time working at Facebook AI Research (now FAIR at Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
+In addition to academic research, Alexander also spent time at Mistral AI as one of the first speech researchers building frontier open audio models (e.g., [Voxtral](#selected-reports)) and LLMs (e.g., [the Ministral 3 family](#selected-reports)).
+He also spent time working at Facebook AI Research (FAIR; now Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
+
 
 [Selected Publications](#selected-publications) / [Selected Reports](#selected-reports) / [Teaching](#teaching) / [Honors](#honors) / [Open-source Contributions](#open-source-contributions)
 <!-- / [CV](files/cv.pdf) -->
