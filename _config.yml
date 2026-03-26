@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Alexander H. Liu<br/>劉浩然"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate<br/>at Massachusetts Institute of Technology"
-  location         : "Cambridge, MA, USA"
+  bio              : "Member of Technical Staff<br/>at Thinking Machines Lab"
+  location         : "San Francisco, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LIiCDa0AAAAJ&hl=en"
-  email            : "alexhliu@mit.edu"
+  email            : "alexhliu@csail.mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
