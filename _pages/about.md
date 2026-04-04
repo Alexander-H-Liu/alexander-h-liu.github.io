@@ -11,15 +11,15 @@ redirect_from:
 
 # Bio
 
-Alexander Liu is a  Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/).
-His work focuses on natural language and speech processing for artificial intelligence, with the goal of building machines that humans can seamlessly interact with. Examples include multimodal audio representation learning, multimodal alignment, large language models, and audio generative models.
+Alexander Liu is a researcher at [Thinking Machines Lab](https://thinkingmachines.ai/).
+His work focuses on natural language and speech processing for artificial intelligence, with the goal of building machines that humans can seamlessly interact with. Examples include multimodal alignment, large language models, and audio generative models.
 
 Alexander earned his Ph.D. in Computer Science from MIT, where he was supervised by [Dr. James Glass](http://people.csail.mit.edu/jrg/).
 Prior to joining MIT, he received M.S. and B.S. in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
 He was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on machine learning and speech processing.
 During his undergraduate years, he worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) on computer vision and representation learning.
 
-In addition to academic research, Alexander also spent time at Mistral AI as one of the first speech researchers building frontier open audio models (e.g., [Voxtral](#selected-reports)) and LLMs (e.g., [the Ministral 3 family](#selected-reports)).
+In addition to academic research, Alexander also spent time at Mistral AI as one of the first speech researchers building frontier open audio models (e.g., [Voxtral](#selected-reports) and [Voxtral-TTS](#selected-reports)) and LLMs (e.g., [the Ministral 3 family](#selected-reports)).
 He also spent time working at Facebook AI Research (FAIR; now Meta AI) and Nvidia Applied Deep Learning Research (ADLR) as a research intern.
 
 
@@ -131,10 +131,10 @@ For the complete list, please visit [google scholar](https://scholar.google.com/
 
 # Selected Reports
 
-- **Voxtral Realtime**<br/>
-    <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Chen-Yo Sun, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Rohin Arora, Sanchit Gandhi, Sandeep Subramanian, Soham Ghosh, Srijan Mishra, et al.<br/>
+- **Voxtral TTS**<br/>
+    <u>Alexander H. Liu</u>, Alexis Tacnet, Andy Ehrenberg, Andy Lo, Chen-Yo Sun, Guillaume Lample, Henry Lagarde, Jean-Malo Delignon, Jaeyoung Kim, John Harvill, Khyathi Raghavi Chandu, Lorenzo Signoretti, Margaret Jennings, Patrick von Platen, Pavankumar Reddy Muddireddy, Rohin Arora, Sanchit Gandhi, Samuel Humeau, Soham Ghosh, Srijan Mishra, Van Phung, et al.<br/>
     *Mistral AI, 2026*<br/>
-    [ [technical report](https://arxiv.org/pdf/2602.11298) | [model weights](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) | [blog](https://mistral.ai/news/voxtral-transcribe-2) ]
+    [ [technical report](https://arxiv.org/abs/2603.25551) | [model weights](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | [blog](https://mistral.ai/news/voxtral-tts) ]
 
 - **Voxtral**<br/>
     <u>Alexander H. Liu</u>, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, et al.<br/>
